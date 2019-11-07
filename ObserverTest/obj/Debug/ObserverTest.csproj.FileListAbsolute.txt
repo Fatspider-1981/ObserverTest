@@ -1,0 +1,6 @@
+C:\Users\yuting\source\repos\ObserverTest\ObserverTest\bin\Debug\ObserverTest.exe.config
+C:\Users\yuting\source\repos\ObserverTest\ObserverTest\bin\Debug\ObserverTest.exe
+C:\Users\yuting\source\repos\ObserverTest\ObserverTest\bin\Debug\ObserverTest.pdb
+C:\Users\yuting\source\repos\ObserverTest\ObserverTest\obj\Debug\ObserverTest.csprojAssemblyReference.cache
+C:\Users\yuting\source\repos\ObserverTest\ObserverTest\obj\Debug\ObserverTest.exe
+C:\Users\yuting\source\repos\ObserverTest\ObserverTest\obj\Debug\ObserverTest.pdb
